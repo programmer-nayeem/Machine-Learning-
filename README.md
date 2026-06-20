@@ -76,21 +76,6 @@ Welcome to my Machine Learning learning repository! This repository documents my
 * PyTorch
 * Git & GitHub
 
-## 📂 Repository Structure
-
-```text
-Machine-Learning/
-│
-├── notes/
-├── datasets/
-├── notebooks/
-├── projects/
-├── models/
-├── images/
-├── requirements.txt
-└── README.md
-```
-
 ## 🚀 Learning Roadmap
 
 1. Learn Python Programming
